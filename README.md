@@ -6,7 +6,6 @@
 
 -🎇 Me sentindo inspirado a aprender e me desenvolver (●'◡'●).
 
-(https://github.com/EduT3/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduT3&show_icons=true)
 
 <div style="display: inline_block"><br>
