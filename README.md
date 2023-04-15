@@ -6,6 +6,8 @@
 
 -🎇 Me sentindo inspirado a aprender e me desenvolver (●'◡'●).
 
+-<a href="https://portifolio2-0-murex.vercel.app/main">Meu Portifólio em Angular</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduT3&show_icons=true)
 
 <div style="display: inline_block"><br>
