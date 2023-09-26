@@ -7,6 +7,7 @@ Sou um estudante de programação e desenvolvedor Front-End, apaixonado por cria
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Angular
 
 ## 🚀 Buscando oportunidades
