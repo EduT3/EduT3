@@ -1,25 +1,44 @@
-## Olá eu sou Eduardo Paulo Tomilhero, Estudante de programação e desenvolvedor Front-End!
+# Olá, eu sou Eduardo Paulo Tomilhero 👋
 
--📖 Atualmente estudando: HTML, CSS, JavaScript e Angular.
+Sou um estudante de programação e desenvolvedor Front-End, apaixonado por criar experiências web incríveis e funcionais.
 
--🏃‍♂️ Indo atrás da primeira oportunidade de emprego ^_^.
+## 📚 Atualmente, estou estudando:
 
--🎇 Me sentindo inspirado a aprender e me desenvolver (●'◡'●).
+- HTML
+- CSS
+- JavaScript
+- Angular
 
-- <a href="https://portifolio2-0-murex.vercel.app/main">Meu Portifólio em Angular</a>
+## 🚀 Buscando oportunidades
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduT3&show_icons=true)
+Estou ansioso para encontrar minha primeira oportunidade de emprego no mundo da programação e contribuir com meu entusiasmo e habilidades para projetos interessantes.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="EduT3-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="EduT3-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="EduT3-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="EduT3-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+## 🌱 Inspirado a aprender e crescer
+
+Estou constantemente buscando novas oportunidades de aprendizado e aprimoramento. Acredito que o aprendizado contínuo é fundamental para o sucesso na área de desenvolvimento web.
+
+## 📂 Meu Portfólio em Angular
+
+Confira meu [Portfólio em Angular](https://portifolio2-0-murex.vercel.app/main) para ver alguns dos meus projetos e trabalhos recentes.
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EduT3&show_icons=true)
+
+## 🛠️ Tecnologias que eu uso:
+
+<div style="display: inline_block">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/eduardo-paulo-tomilhero-bbb83b264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## 📫 Vamos manter contato:
+
+- LinkedIn: [Eduardo Paulo Tomilhero](https://www.linkedin.com/in/eduardo-paulo-tomilhero-bbb83b264/)
+
+Sinta-se à vontade para me contatar para discutir oportunidades de colaboração, projetos ou apenas para uma conversa técnica divertida!
+
+---
+Este README foi criado com ❤️.
