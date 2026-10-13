@@ -1,45 +1,27 @@
 # Olá, eu sou Eduardo Paulo Tomilhero 👋
 
-Sou um estudante de programação e desenvolvedor Front-End, apaixonado por criar experiências web incríveis e funcionais.
+Este é meu espaço de projetos e estudos em tecnologia. Reúno aqui experiências com desenvolvimento web e estudos voltados a dados, SQL e BI.
 
-## 📚 Atualmente, estou estudando:
+## Projetos e estudos
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Angular
+### Dados
 
-## 🚀 Buscando oportunidades
+- [Estudos de SQL](https://github.com/EduT3/sql-estudo)
+- [Dashboard de vendas em Power BI](https://github.com/EduT3/powerbi_vendas_dashboard)
 
-Estou ansioso para encontrar minha primeira oportunidade de emprego no mundo da programação e contribuir com meu entusiasmo e habilidades para projetos interessantes.
+### Desenvolvimento web
 
-## 🌱 Inspirado a aprender e crescer
+- [Portifólio em Angular](https://github.com/EduT3/Portifolio-Angular): apresentação pessoal com componentes e rotas
+- [Primeiro portifólio](https://github.com/EduT3/Portifolio-Edu): HTML, CSS e JavaScript
+- [Site de vagas](https://github.com/EduT3/Site-de-Vagas): prática de layout e responsividade
+- [Grão de Ouro](https://github.com/EduT3/web-shop): página de apresentação de uma loja de café
 
-Estou constantemente buscando novas oportunidades de aprendizado e aprimoramento. Acredito que o aprendizado contínuo é fundamental para o sucesso na área de desenvolvimento web.
+## Tecnologias presentes nos meus estudos
 
-## 📂 Meu Portfólio em Angular
+HTML · CSS · JavaScript · TypeScript · Angular · SQL · Power BI
 
-Confira meu [Portfólio em Angular](https://portifolio2-0-murex.vercel.app/main) para ver alguns dos meus projetos e trabalhos recentes.
+Cada repositório traz seu próprio contexto, instruções de execução e limitações. Os projetos de estudo demonstram meu processo de aprendizagem e evolução.
 
-## 📊 Estatísticas do GitHub
+## Contato
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EduT3&show_icons=true)
-
-## 🛠️ Tecnologias que eu uso:
-
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-## 📫 Vamos manter contato:
-
-- LinkedIn: [Eduardo Paulo Tomilhero](https://www.linkedin.com/in/eduardo-paulo-tomilhero-bbb83b264/)
-
-Sinta-se à vontade para me contatar para discutir oportunidades de colaboração, projetos ou apenas para uma conversa técnica divertida!
-
----
-Este README foi criado com ❤️.
+[LinkedIn · Eduardo Paulo Tomilhero](https://www.linkedin.com/in/eduardo-paulo-tomilhero-bbb83b264/)
